@@ -1,0 +1,2 @@
+<label for="item_id">Item ID</label>
+<input type="text" id="item_id" name="item_id" placeholder="Enter Item ID">
