@@ -1,5 +1,4 @@
-[
-    {"id": 1, "name": "Rehan"},
-    {"id": 2, "name": "khan"},
-    {"id": 3, "name": "rashid"}
-]
+{
+  "name": "Kantaap",
+  "message": "Updated from kantaap_new branch"
+}
